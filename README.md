@@ -1,1 +1,1 @@
-# Free_parking_spots_detection
+# Free_parking_slots_detection
