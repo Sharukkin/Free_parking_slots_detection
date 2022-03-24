@@ -1,4 +1,4 @@
-# Parking_slots_counter
+# Free_parking_slots_detection
 Counting free parking slots based on video flow on parking.
 
 Project is based on yolov5. When bounding box of a car is fulfilling more than 0.1 space of parking slot, parking slot is counted as taken. 
