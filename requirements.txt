@@ -1,0 +1,8 @@
+torch 
+opencv-python
+videoflow
+numpy
+pickle5
+shapely
+flask
+matplotlib
