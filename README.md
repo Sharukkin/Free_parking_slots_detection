@@ -6,4 +6,4 @@ Model should be at least 0.71 confident that car is a car. Threshold was calibra
 For the purpose of marking up parking slots I created my own mark up programm.
 Here you can see the result.
 
-![Result](parking.gif)
+![Result](data/parking.gif)
